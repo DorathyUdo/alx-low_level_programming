@@ -2,12 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - This program determines if the
- * last digit of a random
- * number is less than or greater than
- * or is zero
- * Return: 0 on success
+       * main - This program determines if the
+       * last digit of a random
+       * number is less than or greater than
+       * or is zero
+       * Return: 0 on success
  */
+
 int main(void)
 
 {
