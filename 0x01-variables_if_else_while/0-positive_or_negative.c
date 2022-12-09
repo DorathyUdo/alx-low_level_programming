@@ -5,11 +5,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
-* main - Prints a random number and state whether
-* it is po5sitive, negative or zero.
-* Return: 0 on success
+ * main - Prints a random number and state whether
+ * it is po5sitive, negative or zero.
+ * Return: 0 on success
 */
 int main(void)
 
