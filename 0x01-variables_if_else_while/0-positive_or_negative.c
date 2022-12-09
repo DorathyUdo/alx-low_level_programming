@@ -12,6 +12,7 @@
 * Return: 0 on success
 */
 int main(void)
+
 {
 	int n;
 	srand(time(0));
